@@ -1,0 +1,48 @@
+div.tl{
+    background-color: rgb(178, 218, 221);
+    text-align: center;
+}
+hr.fin{
+    size: 1;
+}
+
+img.valencia{
+    opacity: 1;
+}
+
+img.valencia:hover{
+    opacity: 0.5;
+}
+
+h2.fondo{
+    text-align: center;
+    
+}
+h2.fondo:hover{
+    background-color: rgb(178, 218, 221);
+    font-weight: bold;
+}
+
+hr.seg{
+    height: 15px;
+    background-color: blue;
+}
+
+
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: blue;
+    font-weight: bold;
+}
+
+div.imgv {
+    background-color: rgb(178, 218, 221);
+}
